@@ -35,8 +35,7 @@ My research interest lies in **Embodied AI**:
 # 🎖 Honors and Awards
 - *2025* &nbsp;🏆 **Grand Champion** (National Special Prize), China College Student Engineering Practice and Innovation Ability Competition — Intelligent Connected Vehicle Design.
 - *2025* &nbsp;National First Prize, National College Student Intelligent Transportation Innovation and Entrepreneurship Competition.
-- *2024* &nbsp;National First Prize, China College Student Mechanical Engineering Innovation and Creativity Competition.
-- National Scholarship; National Endeavor Scholarship; 9 scholarships in total.
+- National Scholarship; National Endeavor Scholarship; 10 scholarships in total.
 - Frontiers of Traffic and Transportation Engineering Future Stars Award (no more than 35 undergraduates worldwide).
 - Merit Student of Heilongjiang Province.
 - Nominee for Top Ten College Students of HIT; Outstanding Student Pace-setter of HIT (top 1‰).

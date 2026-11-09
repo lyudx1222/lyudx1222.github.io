@@ -15,11 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-&lt;span class='anchor' id='about-me'&gt;&lt;/span&gt;
-
-&lt;style&gt;
-.sidebar .author__name { white-space: nowrap; font-size: 1em; }
-&lt;/style&gt;
+<span class='anchor' id='about-me'></span>
 
 I am Dongxu Lyu (吕冬旭), an incoming Master's student at the [APRIL Lab](https://april.zju.edu.cn/), Institute of Intelligent Systems and Control, College of Control Science and Engineering, Zhejiang University (Prof. Yong Liu's team), advised by Prof. [Jiangning Zhang](https://zhangzjn.github.io/). I am currently a final-year undergraduate at Harbin Institute of Technology, majoring in Traffic Equipment and Control Engineering with a minor in Intelligent Sensing Engineering.
 
@@ -45,12 +41,12 @@ My research interest lies in **Embodied AI**:
 - Merit Student of Heilongjiang Province.
 - Nominee for Top Ten College Students of HIT; Outstanding Student Pace-setter of HIT (top 1‰).
 
-&lt;!-- 以后有内容了，把下面几段的注释去掉并替换成你自己的信息即可 --&gt;
+<!-- 以后有内容了，把下面几段的注释去掉并替换成你自己的信息即可 -->
 
-&lt;!-- # 📝 Publications
+<!-- # 📝 Publications
 
-&lt;div class='paper-box'&gt;&lt;div class='paper-box-image'&gt;&lt;div&gt;&lt;div class="badge"&gt;CVPR 2027&lt;/div&gt;&lt;img src='images/500x300.png' alt="sym" width="100%"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class='paper-box-text' markdown="1"&gt;
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Paper Title](https://arxiv.org/)
 
@@ -58,10 +54,10 @@ My research interest lies in **Embodied AI**:
 
 [**Project**](https://github.com/)
 - One-sentence summary of the paper.
-&lt;/div&gt;
-&lt;/div&gt;
---&gt;
+</div>
+</div>
+-->
 
-&lt;!-- # 💻 Internships
+<!-- # 💻 Internships
 - *2025.07 - 2025.12*, Company Name, Position.
---&gt;
+-->
